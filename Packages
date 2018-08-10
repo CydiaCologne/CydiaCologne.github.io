@@ -1,0 +1,13 @@
+Package: com.cydiacologne.bobbymusicplus
+Version: 0.1.1.2
+Architecture: iphoneos-arm
+Maintainer: CydiaCologne <oliver@hamacher.be>
+Filename: /com.cydiacologne.bobbymusicplus.deb
+Size: 6924
+MD5sum: 6A0ea6254590f2fffc587c65b9416121
+SHA1: 8c331ba8709d8c7c0860999bb0166bfae76f7065
+SHA256: 1d93f48d6a223b3063c7e8e9f61cc7ce628039d9ea715cd54934f94c87381195
+Section: Tweaks
+Description: BobbyMusic-Hack
+Author: CydiaCologne <oliver@hamacher.be>
+Name: BobbyMusicPlusHack
