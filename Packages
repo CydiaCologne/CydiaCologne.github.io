@@ -1,8 +1,8 @@
-Package: com.cydiacologne.bobbymusicplus
+Package: com.CydiaCologne.bobbymusicplus
 Version: 0.1.1.2
 Architecture: iphoneos-arm
 Maintainer: CydiaCologne <oliver@hamacher.be>
-Filename: /com.cydiacologne.bobbymusicplus.deb
+Filename: /com.CydiaCologne.bobbymusicplus.deb
 Size: 6924
 MD5sum: 6A0ea6254590f2fffc587c65b9416121
 SHA1: 8c331ba8709d8c7c0860999bb0166bfae76f7065
