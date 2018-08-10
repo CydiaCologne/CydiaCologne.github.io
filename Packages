@@ -1,13 +1,13 @@
-Package: com.CydiaCologne.bobbymusicplus
-Version: 0.1.1.2
+Package: com.CydiaCologne.SuperMarioRun
+Version: 1.1.1.1
 Architecture: iphoneos-arm
 Maintainer: CydiaCologne <oliver@hamacher.be>
-Filename: /com.CydiaCologne.bobbymusicplus.deb
-Size: 6924
-MD5sum: 6A0ea6254590f2fffc587c65b9416121
-SHA1: 8c331ba8709d8c7c0860999bb0166bfae76f7065
-SHA256: 1d93f48d6a223b3063c7e8e9f61cc7ce628039d9ea715cd54934f94c87381195
+Filename: /com.CydiaCologne.SuperMarioRun.deb
+Size: 1835786
+MD5sum: 5d8267a5220dd157988279b8a28373e7
+SHA1: b5deb4ee37c8b9f423759df722f654bcd2c0bb4f
+SHA256: 3f180c183c87163b30c9414413baa7fad58a5c893afa8bc6c48a5c2f844a932f
 Section: Tweaks
-Description: BobbyMusic-Hack
+Description: SuperMarioRunHack
 Author: CydiaCologne <oliver@hamacher.be>
-Name: BobbyMusicPlusHack
+Name: SuperMarioRunHack1.1.1.1
